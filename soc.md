@@ -4,7 +4,7 @@
 
 ## マイコン
 - Arm Cortex-M
-- [ルネサスはAndes Technologyの32bitRISC-Vコアを採用](https://xtech.nikkei.com/atcl/nxt/news/18/08867/)                 
+- [ルネサスはAndes Technologyの32bit RISC-Vコアを採用](https://xtech.nikkei.com/atcl/nxt/news/18/08867/)                 
 
 ## application processor
 linuxが動作する
