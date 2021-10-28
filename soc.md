@@ -3,16 +3,15 @@
 - application processor
 
 ## マイコン
-- Arm Cortex-M
+- Arm Cortex-M、NVIC(Nested Vectored Interrupt Controller)
 - [ルネサスはAndes Technologyの32bit RISC-Vコアを採用](https://xtech.nikkei.com/atcl/nxt/news/18/08867/)                 
 
 ## application processor
-linuxが動作する
-
-MMU(Memory Management Unit)を搭載 
-
-日本国内でapplication processorを作っているのはRenesasだけ。                                                            
-### Arm Cortex-A                                                                                                        
+- Arm Cortex-A、GIC (General Interrupt Controller) 
+- linuxが動作する
+- MMU(Memory Management Unit)を搭載 
+- 日本国内でapplication processorを作っているのはRenesasだけ。                                                            
+### 製造メーカー                                                                                                        
 - スマホ向け
 
   Qualcomm snapdragon(apple, samsung, googleは自社製品向けに内製)     
