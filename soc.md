@@ -38,7 +38,7 @@ MMU(Memory Management Unit)を搭載
 # eFlashについて
 SoCに内蔵するeFlashは「CMOSロジック互換」で作成しなければならず、微細化に限界がある模様。
 
-(リンク)[https://pc.watch.impress.co.jp/docs/column/semicon/1134166.html]
+[リンク](https://pc.watch.impress.co.jp/docs/column/semicon/1134166.html)
 
 28nm程度が限界でそれより先はMRAMに移行か
 
