@@ -14,7 +14,6 @@ MMU(Memory Management Unit)を搭載
 日本国内でapplication processorを作っているのはRenesasだけ。                                                            
 ### Arm Cortex-A                                                                                                        
 - スマホ向け
-- 
   Qualcomm snapdragon(apple, samsung, googleは自社製品向けに内製)     
   
   MediaTek
