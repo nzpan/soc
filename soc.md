@@ -37,15 +37,25 @@
 # eFlashについて
 SoCに内蔵するeFlashは「CMOSロジック互換」で作成しなければならず、微細化に限界がある模様。
 
-[リンク](https://pc.watch.impress.co.jp/docs/column/semicon/1134166.html)
+[link](https://pc.watch.impress.co.jp/docs/column/semicon/1134166.html)
 
 28nm程度が限界でそれより先はMRAMに移行か
 
 # MRAM
+Magnetoresistive Random Access Memory, 磁気抵抗メモリ
 
+[Samsung/IBM/TSMC/GFがMRAM開発の最新成果を披露](https://pc.watch.impress.co.jp/docs/column/semicon/1297554.html)
+
+[米国のルネサスが販売している8MビットのSTT-MRAM](https://eetimes.itmedia.co.jp/ee/articles/2104/23/news028.html)
+
+# 車載SoCを取り巻く状況について
+
+[TOYOTA Arene OS](https://car.watch.impress.co.jp/docs/news/1303287.html)
 
 # 日本国内ファブについて
-40nmまでのSoCまでしか作ることができず、それより微細なプロセスの場合はTSMCに頼む。
+日本国内では40nmまでのSoCまでしか作ることができず、それより微細なプロセスの場合はTSMCに頼む。
 
 国内の設計・開発業務になにかしらの影響があるかも？
+
+
 
