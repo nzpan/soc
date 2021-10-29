@@ -52,6 +52,10 @@ Magnetoresistive Random Access Memory, 磁気抵抗メモリ
 
 [TOYOTA Arene OS](https://car.watch.impress.co.jp/docs/news/1303287.html)
 
+スマホ用SoCと車載SoCの大きな違いはリアルタイム性。
+
+リアルタイム性を考慮したOSになっていくのでは？
+
 # 日本国内ファブについて
 日本国内では40nmまでのSoCまでしか作ることができず、それより微細なプロセスの場合はTSMCに頼む。
 
